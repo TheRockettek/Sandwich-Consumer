@@ -1,0 +1,6 @@
+msgpack
+aiohttp
+asyncio
+aiokafka
+aioredis
+multiprocessing
